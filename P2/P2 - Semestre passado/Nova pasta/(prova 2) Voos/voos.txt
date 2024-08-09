@@ -1,0 +1,9 @@
+Opção      Origem     Destino    Nº Voo     Saída      Chegada   
+  0        GRU        CGR        3592       14.35      15.15     
+  1        GRU        REC        1618       9.05       12.05     
+  2        GRU        FLN        1252       20.45      22.00     
+  3        GRU        JFK        114        17.50      5.25      
+  4        GRU        FOR        4521       23.55      3.20      
+  5        GRU        FLN        5728       12.45      14.05     
+  6        GRU        FOR        3742       18.00      21.25     
+  7        GRU        SSA        1692       8.05       10.20     

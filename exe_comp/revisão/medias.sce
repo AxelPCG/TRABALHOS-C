@@ -1,0 +1,5 @@
+a = input("Entre com o primeiro valor: ")
+b = input("Entre com o segundo valor: ")
+c = input("Entre com o terceiro valor: ")
+printf("Média aritmética %.2f\n",mean([a b c]) )
+printf("Média harmônica %.2f",harmean([a b c]) )

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630936926 source:d:\eletrônica\programação de computadores i\exercícios\c\média harmônica (arquivo binário)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

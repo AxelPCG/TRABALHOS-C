@@ -1,0 +1,25 @@
+Q2:
+
+a)
+
+- "%" serve como operador matemático para calcular o resto de duas variáveis declaradas ou equações.
+Ex: 
+int main( ) {
+int x, y, z;
+x=4;
+y=2;
+z=x%y; //calcula o valor do resto da divisão 4/2 e armazena em z (z=0)
+
+
+- "%" também serve para indicar o tipo de dado quando acompanhado de outro caractere do sistema 
+(%d, %c, %f...). Por exemplo %d indica que o dado deve retornar um valor inteiro. É comulmente
+utilizado em printf e scanf para a declaração do tipo de dado.
+
+b) "valor" pode variar de 0 a 4294967295.
+
+c) Sim, "char" é um tipo de variável criada para declarar caracteres e não valores númericos
+inteiros (int). Os valores númericos declarados em char podem até compilar porém o resultado impresso
+pode ser diferente do declarado, pois o tamanho desse tipo de variável possui somente 8 bits (-128 a 127)
+e valor 156 não será apresentado corretamente. Normalmente cada tipo de dado varia dependendo do processador
+e compilador utilizado.
+

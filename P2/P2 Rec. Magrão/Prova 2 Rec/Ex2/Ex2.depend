@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619709732 source:f:\faculdade\prog1\prova 2 rec\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

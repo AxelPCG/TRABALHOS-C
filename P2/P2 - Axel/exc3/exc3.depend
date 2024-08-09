@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631194938 source:c:\users\hawdr\onedrive\desktop\axel\prog\p2\p2 - axel\exc3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

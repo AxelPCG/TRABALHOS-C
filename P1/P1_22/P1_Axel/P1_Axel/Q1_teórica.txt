@@ -1,0 +1,32 @@
+Q1:
+
+O programa ira fazer 3 laços utilizando "for" e apresentará na tela o seguinte resultado:
+
+valor[0] = 500
+valor[1] = 491
+valor[2] = 480
+valor[2] = 960
+valor[1] = 982
+valor[0] = 1000
+
+- No primeiro laço "for" se iniciará com k=INI (que por sua vez tem valor = 0), e enquanto k for menor 
+que FIM (k<FIM=3), k será acrescentado em 1 (k++) até chegar no valor de 2. Nesse primeiro laço será 
+calculado a seguinte equação enquanto o laço não terminar: 
+valor[k] = 500 - 10*k + k%2 (sendo valor[k] um vetor e k%2 o resto da divisão por 2).
+
+- Já no segundo laço será apresentado na tela:
+
+valor[0] = 500
+valor[1] = 491
+valor[2] = 480
+
+Seguindo a mesma lógica do primeiro laço e somente imprimindo com printf o resultado de valor[k] 
+calculado anteriormente até que k chegue a 2 (k<FIM=3).
+
+- No terceiro laço k iniciará com valor igual a 2 pois (k=FIM-1), e enquanto k for maior que 0 (k>=INI)
+sofrerá um decréscimo de -1 (k--). O resultado será impresso novamente com valores de:
+valor[k] *= 2 (sendo "*=":  valor[k] = valor[k] * 2).
+
+valor[2] = 960
+valor[1] = 982
+valor[0] = 1000

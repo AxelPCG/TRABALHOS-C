@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625100962 source:c:\users\hawdr\onedrive\desktop\axel\prog\exc sem6\exc5\main.c
+	<stdio.h>
+	<locale.h>
+	<io.h>
+	<fcntl.h>
+

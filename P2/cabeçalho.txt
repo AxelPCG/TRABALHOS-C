@@ -1,0 +1,6 @@
+/**********************************************************
+* Autor: Axel P. C. Gonzaga                               *
+* Unidade curricular: Programação de Computadores I       *
+* Data: 15/07/2021                                        *
+* Questão 1: Pagamento de uma mercadoria e valor do caixa *
+***********************************************************/

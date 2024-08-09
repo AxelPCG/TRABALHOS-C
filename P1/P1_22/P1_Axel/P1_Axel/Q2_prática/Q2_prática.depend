@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653507179 source:c:\users\aluno\desktop\p1_axel\q2_prática\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1653517182 source:c:\users\lenovo\onedrive\Área de trabalho\axel\prog\p1\p1_22\p1_axel\p1_axel\q2_prática\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+

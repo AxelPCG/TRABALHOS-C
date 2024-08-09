@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1630935627 source:d:\eletrônica\programação de computadores i\exercícios\c\media arquivo de texto (arquivos)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
