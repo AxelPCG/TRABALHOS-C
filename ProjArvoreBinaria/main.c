@@ -1,7 +1,3 @@
-//Tarefa 2 Programa��o 2
-//Professor: Everton Santos
-//Aluna: Beatriz Spricigo Magalh�es
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
